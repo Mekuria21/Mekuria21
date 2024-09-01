@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mekuria21 
 - 👀 I’m interested in taking this course
-- 🌱 I’m currently pursuing my postgraduate degree and taking courses at Udacity University on programming
+- 🌱 I’m currently pursuing my postgraduate degree and taking some courses at Udacity University on programming
 - 💞️ I’m looking to collaborate on getting enough knowledge about programming
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
